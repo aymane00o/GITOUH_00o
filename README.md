@@ -1,5 +1,5 @@
 # GITOUH_00o
-ALL ABOUT.....Creating a projects with Arduino or Raspberry Pi involves harnessing the power of these versatile platforms to build innovative and interactive electronic systems. 
+ALL ABOUT.....Creating a project's with Arduino or Raspberry Pi involves harnessing the power of these versatile platforms to build innovative and interactive electronic systems. 
 These projects typically combine hardware and software components to create unique applications.
 When creating a project with Arduino or Raspberry Pi, you first need to define the project's objectives and requirements.
 Then, you can design the circuitry and select the necessary components, such as sensors, actuators, and communication modules. 
