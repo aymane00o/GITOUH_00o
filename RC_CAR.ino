@@ -1,10 +1,10 @@
 
 #include <AFMotor.h>
 
-AF_DCMotor motor1(1);//define motor 1 as m1
-AF_DCMotor motor2(2);//define motor 2 as m2
-AF_DCMotor motor3(3);//define motor 3 as m3
-AF_DCMotor motor4(4);//define motor 4 as m4
+AF_DCMotor motor1(1);//define motor 1 as motor1
+AF_DCMotor motor2(2);//define motor 2 as motor2
+AF_DCMotor motor3(3);//define motor 3 as motor3
+AF_DCMotor motor4(4);//define motor 4 as motor4
 /*
  get percentage value  "0" to "100%"  and conversts it to "0" to "255" which is motor speed used by Arduino
  */
