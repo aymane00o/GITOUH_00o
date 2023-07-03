@@ -30,7 +30,7 @@ void loop() {
   Serial.println("Motor 1 FORWARD 50% speed");
   motor1.run(FORWARD);
   motor1.setSpeed(speed(50));
-  Serial.println("m4 FORWARD 50%");
+  Serial.println("Motor4 FORWARD 50%");
   motor4.run(FORWARD);
   motor4.setSpeed(speed(50));  
   delay(3000);//delay 
